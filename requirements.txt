@@ -1,0 +1,11 @@
+soundfile==0.13.1
+scipy==1.16.1
+pandas==2.3.1
+transformers==4.56.0
+pyopenjtalk==0.4.1
+tensorflow==2.20.0
+tf_keras==2.20.1
+torch==2.8.0
+crepe==0.0.16
+pydub==0.25.1
+plotly==6.3.0
