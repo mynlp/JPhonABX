@@ -1,6 +1,6 @@
 ## Overview
 
-JPhonABX is a Japanese phonological discrimination dataset targeting moraic and accentual contrasts, proposed in [JPhonABX: Japanese Phonological Discrimination Dataset for Moraic and Accentual Minimal Pairs](TODO: paper URL) (EMNLP 2026).
+JPhonABX is a Japanese phonological discrimination dataset targeting moraic and accentual contrasts, proposed in [JPhonABX: Japanese Phonological Discrimination Dataset for Moraic and Accentual Minimal Pairs](https://aclanthology.org/2026.findings-emnlp.1072/) (EMNLP 2026).
 
 This repository releases:
 
@@ -166,5 +166,22 @@ The code in this repository is licensed under MIT. Both evaluating a model and b
 If you use JPhonABX, please cite:
 
 ```bibtex
-TODO: BibTeX entry
+@inproceedings{koga-etal-2026-jphonabx,
+    title = "{JP}hon{ABX}: {J}apanese Phonological Discrimination Dataset for Moraic and Accentual Minimal Pairs",
+    author = "Koga, Yurie  and
+      Kando, Shunsuke  and
+      Miyao, Yusuke",
+    editor = "Lee, Hung-Yi  and
+      Dev, Sunipa  and
+      Li, Jessy  and
+      Elliott, Desmond",
+    booktitle = "Findings of the {A}ssociation for {C}omputational {L}inguistics: {EMNLP} 2026",
+    month = oct,
+    year = "2026",
+    address = "Budapest, Hungary",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2026.findings-emnlp.1072/",
+    pages = "22676--22695",
+    ISBN = "979-8-89176-462-0"
+}
 ```
